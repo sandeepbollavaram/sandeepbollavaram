@@ -30,16 +30,7 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   Building the infrastructure layer for the next generation of AI.      ║
-║                                                                          ║
-║   Kubernetes Operators  ·  MCP Agent Systems  ·  Local-First LLMs       ║
-║   Windows AI Assistants  ·  Cloud Security  ·  Developer Tools          ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a3e&height=120&text=Building%20the%20infrastructure%20layer%20for%20the%20next%20generation%20of%20AI.&fontSize=18&fontColor=f8fafc&fontAlignY=40&desc=Kubernetes%20Operators%20%C2%B7%20MCP%20Agent%20Systems%20%C2%B7%20Local-First%20LLMs%20%C2%B7%20Windows%20AI%20%C2%B7%20Cloud%20Security&descAlignY=70&descSize=13&descColor=94a3b8" width="96%" />
 
 </div>
 
@@ -209,22 +200,35 @@ Currently engineering at **[Flexdee Technologies](https://flexdee.in)** — AI p
 
 <div align="center">
 
-```yaml
-active_projects:
-  - name: "Kairo v2"
-    status: "🟡 In Progress"
-    focus: "Multi-agent session handoff · expanded MCP surface · VS Code extension"
-  - name: "Shukra v0.4"
-    status: "🟡 In Progress"
-    focus: "AIONOS bridge maturity · shadow protocol · multi-cluster support"
-  - name: "Vayu"
-    status: "🟢 Active"
-    focus: "Offline AI capability expansion · WinUI 3 interface improvements"
-  - name: "Flexdee Technologies"
-    status: "🟢 Active"
-    focus: "AI platform features · full-stack architecture · CI/CD ownership"
-philosophy: "Build for production. Document everything. Ship real releases."
-```
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="center">Status</th>
+<th align="left">Current Focus</th>
+</tr>
+<tr>
+<td><b>🧠 Kairo v2</b></td>
+<td align="center"><img src="https://img.shields.io/badge/In%20Progress-f59e0b?style=flat-square" /></td>
+<td>Multi-agent session handoff · expanded MCP surface · VS Code extension</td>
+</tr>
+<tr>
+<td><b>⚙️ Shukra v0.4</b></td>
+<td align="center"><img src="https://img.shields.io/badge/In%20Progress-f59e0b?style=flat-square" /></td>
+<td>AIONOS bridge maturity · shadow protocol · multi-cluster support</td>
+</tr>
+<tr>
+<td><b>🪟 Vayu</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" /></td>
+<td>Offline AI capability expansion · WinUI 3 interface improvements</td>
+</tr>
+<tr>
+<td><b>🏢 Flexdee Technologies</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" /></td>
+<td>AI platform features · full-stack architecture · CI/CD ownership</td>
+</tr>
+</table>
+
+> *Build for production. Document everything. Ship real releases.*
 
 </div>
 
