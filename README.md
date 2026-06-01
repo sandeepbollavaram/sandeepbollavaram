@@ -172,7 +172,7 @@ Currently engineering at **[Flexdee Technologies](https://flexdee.in)** — AI p
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=sandeepbollavaram&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultipleLang" />
+<img width="95%" src="https://raw.githubusercontent.com/sandeepbollavaram/sandeepbollavaram/output/trophies.svg" alt="GitHub Trophies" />
 
 </div>
 
