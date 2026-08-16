@@ -234,7 +234,7 @@ Currently engineering at **[Flexdee Technologies](https://flexdee.in)** — AI p
 
 ---
 
-## 💡 Open Source Philosophy
+## 💡 Open Source Philosophys
 
 > *Software that cannot be deployed, maintained, or understood by others is not open source — it is an archive.*
 
